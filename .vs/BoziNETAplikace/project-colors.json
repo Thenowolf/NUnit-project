@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f5b5e0d0-9702-4579-b932-3bdd6ca29488": {
+      "ProjectGuid": "f5b5e0d0-9702-4579-b932-3bdd6ca29488",
+      "DisplayName": "BoziNETAplikace",
+      "ColorIndex": 0
+    },
+    "c54eed2f-b6ea-4a5e-9191-abc6959c6534": {
+      "ProjectGuid": "c54eed2f-b6ea-4a5e-9191-abc6959c6534",
+      "DisplayName": "TestProject1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

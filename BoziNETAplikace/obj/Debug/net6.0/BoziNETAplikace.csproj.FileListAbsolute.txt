@@ -1,0 +1,15 @@
+D:\BoziNETAplikace\BoziNETAplikace\BoziNETAplikace\bin\Debug\net6.0\BoziNETAplikace.exe
+D:\BoziNETAplikace\BoziNETAplikace\BoziNETAplikace\bin\Debug\net6.0\BoziNETAplikace.deps.json
+D:\BoziNETAplikace\BoziNETAplikace\BoziNETAplikace\bin\Debug\net6.0\BoziNETAplikace.runtimeconfig.json
+D:\BoziNETAplikace\BoziNETAplikace\BoziNETAplikace\bin\Debug\net6.0\BoziNETAplikace.dll
+D:\BoziNETAplikace\BoziNETAplikace\BoziNETAplikace\bin\Debug\net6.0\ref\BoziNETAplikace.dll
+D:\BoziNETAplikace\BoziNETAplikace\BoziNETAplikace\bin\Debug\net6.0\BoziNETAplikace.pdb
+D:\BoziNETAplikace\BoziNETAplikace\BoziNETAplikace\obj\Debug\net6.0\BoziNETAplikace.csproj.AssemblyReference.cache
+D:\BoziNETAplikace\BoziNETAplikace\BoziNETAplikace\obj\Debug\net6.0\BoziNETAplikace.GeneratedMSBuildEditorConfig.editorconfig
+D:\BoziNETAplikace\BoziNETAplikace\BoziNETAplikace\obj\Debug\net6.0\BoziNETAplikace.AssemblyInfoInputs.cache
+D:\BoziNETAplikace\BoziNETAplikace\BoziNETAplikace\obj\Debug\net6.0\BoziNETAplikace.AssemblyInfo.cs
+D:\BoziNETAplikace\BoziNETAplikace\BoziNETAplikace\obj\Debug\net6.0\BoziNETAplikace.csproj.CoreCompileInputs.cache
+D:\BoziNETAplikace\BoziNETAplikace\BoziNETAplikace\obj\Debug\net6.0\BoziNETAplikace.dll
+D:\BoziNETAplikace\BoziNETAplikace\BoziNETAplikace\obj\Debug\net6.0\ref\BoziNETAplikace.dll
+D:\BoziNETAplikace\BoziNETAplikace\BoziNETAplikace\obj\Debug\net6.0\BoziNETAplikace.pdb
+D:\BoziNETAplikace\BoziNETAplikace\BoziNETAplikace\obj\Debug\net6.0\BoziNETAplikace.genruntimeconfig.cache
